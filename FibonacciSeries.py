@@ -1,3 +1,7 @@
+# Fibonacci Series
+# Description
+# Compute and display Fibonacci series upto n terms where n is a positive integer entered by the user.
+
 n = int(input())
 list = []
 
